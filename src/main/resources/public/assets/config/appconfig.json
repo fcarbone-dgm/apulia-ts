@@ -1,0 +1,19 @@
+{
+  "env": {
+    "production": false,
+    "baseUrl": "http://localhost:8080/api/"
+  },
+
+  "api": {
+    "timesheetPath": "",
+    "timesheetAggregatePath": "filtered"
+  },
+
+  "settings": {
+    "options": [
+      { "name": "Project", "value": "project" },
+      { "name": "Employee", "value": "employee" },
+      { "name": "Date", "value": "date" }
+    ]
+  }
+}
